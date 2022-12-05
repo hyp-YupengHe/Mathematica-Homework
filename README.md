@@ -1,2 +1,2 @@
-# Mathematica-Homework
-Homework of Math Experiment Class by exploiting Mathematica
+# Mathematica-Assignment
+Assignment of Math Experiment Class by exploiting Mathematica
